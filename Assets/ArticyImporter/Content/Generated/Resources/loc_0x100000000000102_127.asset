@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1080164415, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
+  m_Name: loc_0x100000000000102_127
+  m_EditorClassIdentifier: 
+  mLocalizedStringsKeys:
+  - FFr_F74205FC.DisplayName
+  - Dlg_C136D4C1.DisplayName
+  - Dlg_C136D4C1.Text
+  - Dlg_56A97563.DisplayName
+  - Dlg_56A97563.Text
+  - Dlg_1D304105.DisplayName
+  - Dlg_1D304105.Text
+  - Dlg_5142C39F.DisplayName
+  - Dlg_7D2BBE27.DisplayName
+  - Dlg_0CDBDF52.DisplayName
+  - Dlg_0CDBDF52.Text
+  - DFr_4ECD2D64.Text
+  - DFr_75BE8DC3.Text
+  - DFr_1858218B.Text
+  - DFr_81F49125.Text
+  - DFr_9FCE43B6.Text
+  - DFr_4A2E923C.Text
+  - DFr_29D96F09.Text
+  - DFr_A09EA63E.Text
+  - DFr_FBFFCC6A.PreviewText
+  - DFr_FBFFCC6A.Text
+  - DFr_661E4107.PreviewText
+  - DFr_661E4107.Text
+  - DFr_F120EE49.Text
+  - DFr_07823A4E.Text
+  - DFr_A30F0F3E.Text
+  - DFr_787D5B84.Text
+  - DFr_28661C9D.Text
+  - DFr_7D562513.Text
+  - DFr_3853B303.Text
+  - DFr_FB902F8F.Text
+  - DFr_5A1E03D7.PreviewText
+  - DFr_5A1E03D7.Text
+  - DFr_F64F2548.Text
+  - DFr_A4498EEC.Text
+  - DFr_93D9D222.Text
+  - DFr_98AFBD41.Text
+  - DFr_8CD3D329.Text
+  - DFr_D42AE295.Text
+  - DFr_61D9B14D.Text
+  - DFr_7FDC8D75.Text
+  - DFr_B382606F.Text
+  - DFr_9D7BEA64.Text
+  - DFr_C5AAD3A3.Text
+  - DFr_E1D144A8.Text
+  - DFr_F66A1A55.Text
+  - DFr_AD592E00.Text
+  - DFr_CF026575.Text
+  - DFr_1C31E623.Text
+  - DFr_74FA77F2.Text
+  - DFr_93ABBB31.Text
+  - DFr_68FD9FF5.PreviewText
+  - DFr_68FD9FF5.Text
+  - DFr_AD57DFD9.PreviewText
+  - DFr_AD57DFD9.Text
+  - DFr_6EFE198A.PreviewText
+  - DFr_6EFE198A.Text
+  - DFr_5B051EC9.PreviewText
+  - DFr_5B051EC9.Text
+  - DFr_53E250E4.Text
+  - DFr_DDF374BE.Text
+  - DFr_27740989.Text
+  - DFr_FBA8580C.Text
+  - DFr_EED3834C.Text
+  - DFr_E9B9F1EF.Text
+  - DFr_3426F6D2.Text
+  - Ntt_0D0E25AA.DisplayName
+  - Ntt_0D0E25AA.Text
+  - Ntt_0D0E25AA.CharacterInfo.Background
+  - Ntt_0D0E25AA.CharacterInfo.Motivation
+  - Ntt_0D0E25AA.CharacterInfo.Appearance
+  - Ntt_55B1A627.DisplayName
+  - Ntt_55B1A627.Text
+  - Ntt_55B1A627.CharacterInfo.Background
+  - Ntt_55B1A627.CharacterInfo.Motivation
+  - Ntt_55B1A627.CharacterInfo.Appearance
+  - Ntt_EB2BB718.DisplayName
+  - Ntt_EB2BB718.Text
+  - Ntt_EB2BB718.CharacterInfo.Background
+  - Ntt_EB2BB718.CharacterInfo.Motivation
+  - Ntt_EB2BB718.CharacterInfo.Appearance
+  - Ntt_D4B565DB.DisplayName
+  - Ntt_D4B565DB.Text
+  - Stake.DisplayName
+  - Stake.ItemBasics.FlavorText
+  - ReflexPotion.DisplayName
+  - Peppermint.DisplayName
+  - Milk.DisplayName
+  - FirabolicusSparkles.DisplayName
+  - Ntt_067CDBA3.DisplayName
+  - Alcohol.DisplayName
+  - SkimmedMilk.DisplayName
+  mLocalizedStringsValues:
+  - Fight
+  - In the home of Mina Harker
+  - Van Helsing visits Mina in her home to discuss the looming confrontation with
+    Dracula
+  - Dracula and Mina - First meeting
+  - Mina and Dracula meet for the first time
+  - Dracula and Mina - Final Confrontation
+  - Mina meets Dracula again. This time for their final confrontation.
+  - Name known
+  - Name unknown
+  - In the home of Mina Harker
+  - Van Helsing visits Mina in her home to discuss the looming confrontation with
+    Dracula
+  - Oh my dear Mina, I really think it is too early for you to confront Dracula again.
+    There is so much more I need to teach you.
+  - Professor Van Helsing, it is touching how worried you are. However, time is not
+    on our side here. If Dracula continues building a secure and covert foothold
+    in London we might never get to him.
+  - "You are of course right. I just wish we had more time. I am still plagued by
+    the injury I received on the graveyard\u2026"
+  - "\u2026where we put the ghoulish thing to rest that inhabited the body of poor
+    Lucy."
+  - "Never forget \u2013 it was not Lucy we encountered in this tomb. Lucy passed
+    away days before. It was the evil seed Dracula left to sprout. But in the end
+    we saved her soul. I just wished it would not have left me walking on crutches,
+    for I cannot stand the thought of you facing this monster alone."
+  - "Lord Godalming, Mr. Morris, and Dr. Seward are on their way to the Carpathians
+    to cut off any possibility of retreat for Dracula. This leaves just us two here
+    in London, and you are in no way fit to put yourself in danger. Don\u2019t worry,
+    my friend, you have prepared me well."
+  - Sweet Mina, my heart aches, but you speak reason beyond doubt. Let me hold you
+    in my arms for a moment, before you make your way to the monster's lair.
+  - Before I deal with you as is right and proper, do me the courtesy of telling
+    me your name.
+  - Don't talk to me about courtesy.
+  - You are not deserving of any courtesy, Count Dracula. You have killed my dear
+    husband, and my most beloved friend.
+  - Do I not look familiar to you?
+  - Look closely, Count. Is my face not familiar to you? If you were a gentleman,
+    I might be offended. But you are not.
+  - It's Mrs. Harker for the likes of you. Count Dracula, your hellish existence
+    will end tonight.
+  - Please spare me the charade. I know who - what you are. And I will have my revenge
+    on you!
+  - You have the nerve to creep in to my house like a common burglar?
+  - You have me at a disadvantage, Madam. I do not know you, and clearly you must
+    confuse me with someone else. I have never killed anyone.
+  - I remember now - poor Mr. Harker carried a picture of you near his heart. You
+    are Mina.
+  - If it is true that you know and understand who I am, then you must also understand
+    that your undertaking is preposterous and can only end with your own demise.
+  - It will be your demise! I am not as unprepared as you might think. Professor
+    Van Helsing sends his regards!
+  - The mighty Dracula is fleeing from a mere woman? This was not the last you have
+    seen of me. We shall meet again.
+  - I don't think so.
+  - Dracula speaking about courtesy? You are but a killer! You shall learn of my
+    name, though now is not the time.
+  - Wretched creature! You will no longer find safe haven in this city, my legion
+    will come for you and sniff out your hiding place!
+  - I told you that we would meet again.
+  - I told you that we would meet again.
+  - Oh my dear Mina, I really think it is too early for you to confront Dracula again.
+    There is so much more I need to teach you.
+  - Professor Van Helsing, it is touching how worried you are. However, time is not
+    on our side here. If Dracula continues building a secure and covert foothold
+    in London we might never get to him.
+  - "You are of course right. I just wish we had more time. I am still plagued by
+    the injury I received on the graveyard\u2026"
+  - "\u2026where we put the ghoulish thing to rest that inhabited the body of poor
+    Lucy."
+  - "Never forget \u2013 it was not Lucy we encountered in this tomb. Lucy passed
+    away days before. It was the evil seed Dracula left to sprout. But in the end
+    we saved her soul. I just wished it would not have left me walking on crutches,
+    for I cannot stand the thought of you facing this monster alone."
+  - "Lord Godalming, Mr. Morris, and Dr. Seward are on their way to the Carpathians
+    to cut off any possibility of retreat for Dracula. This leaves just us two here
+    in London, and you are in no way fit to put yourself in danger. Don\u2019t worry,
+    my friend, you have prepared me well."
+  - Sweet Mina, my heart aches, but you speak reason beyond doubt. Let me hold you
+    in my arms for a moment, before you make your way to the monster's lair.
+  - So you did, Miss Mina.
+  - So you did, Miss Mina. Don't look so surprised, I told you I would find out who
+    you are.
+  - In the end it always comes down to sniff out a Judas and help them to their 30
+    pieces of silver.
+  - I don't believe a word you say. Wherever you got your information from, none
+    of my friends betrayed me!
+  - If you say so.
+  - You spoke of courtesy last time we met,  so now do me the courtesy of answering 
+    some questions I have for you.
+  - It will be my pleasure. But I cannot guarantee that you will like what I have
+    to say.
+  - What do you want to know?
+  - Why did you kill my husband?
+  - Why did you have to kill my dear Jonathan? He travelled all the way just to help
+    you.
+  - Why did you come to London?
+  - Why did you come to London of all places? What do you expect to find here?
+  - That's all.
+  - Actually, I cannot think of another question.
+  - Are you ready to die?
+  - 'There is only one question I need the answer to: Are you prepared to go to hell?'
+  - You do not ask the lion why it kills the antelope. It is the natural order.
+  - I have great plans for this city. I will shape it according to my vision.
+  - As you wish. However, I am starting to grow bored by you. Time to end this.
+  - After you beat my useful but pathetic pet Renfield,  I increased my efforts.
+  - Renfield proved useful in discovering your identity.
+  - As you couldn't even dispose of that pathetic creature, forgive me if I am not
+    overly worried.
+  - Keep gloating, pride comes before a fall.
+  - Count Dracula
+  - The villain of this story.
+  - 'Count Dracula has grown tired of his castle in the remote Carpathian mountains.
+    He enlisted the services of solicitor Jonathan Harker to purchase a residence
+    in London. After killing Harker, he travelled to England by ship, lying in Transylvanian
+    soil. '
+  - Dracula's short term goal of coming to England was to be closer to society again.
+    In the long run he plans to expand his power and establish a new monarchy of
+    vampires.
+  - Slender, well dressed in latest British fashion. Appears young when well fed,
+    seems to grow older when not consuming blood on regular basis.
+  - Mina Harker
+  - The hero.
+  - "Mina worked as a schoolteacher in London. After the death of her husband Jonathan
+    and her best friend Lucy, she was forcefully thrown into the dark world of the
+    supernatural. Dr. Seward introduced her to Professor Van Helsing, who helped
+    her to understand the evil they were facing. Mina\u2019s meticulously kept journal
+    and letters were instrumental in deciphering Dracula\u2019s plans."
+  - Mina is still coping with the loss of Jonathan and Lucy. However, she is not
+    consumed by a blind rage for revenge, she has come to a rational realization
+    that others need to be saved from from suffering the same fate. She knows that
+    they are facing a cunning and evil adversary, so she is biding her time and preparing
+    and training for the final confrontation.
+  - 'While still maintaining a lady-like appearance when in public, Mina prefers
+    a more functional attire when out on a mission.  '
+  - Van Helsing
+  - The old, wise teacher.
+  - 'Abraham Van Helsing is from the Netherlands. He is a polymath doctor, an expert
+    in many fields. Philosopher and metaphysician, and one of the most advanced scientists
+    of his day.  '
+  - After the death of Jonathan Harker by the hands of Dracula, Van Helsing vowed
+    to keep Mina safe from any harm. Not able to dissuade her from her path of revenge,
+    he now trains her and tries to teach her everything he can about vampires.
+  - 'His graying hair seems to be the only thing giving away his advanced age. His
+    posture and poise are still that of a man in the prime of his years. '
+  - Apple Girl
+  - Girl who sells apples
+  - Stake
+  - 'The ultimate weapon against the creatures of the night. Carved from white oak
+    and then blessed by a priest. '
+  - Reflex Potion
+  - Peppermint
+  - Milk
+  - Firabolicus Sparkles
+  - Apple
+  - Alcohol
+  - Skimmed Milk
+  mLocalizedAudioAssetsKeys: []
+  mLocalizedAudioAssetsValues: 

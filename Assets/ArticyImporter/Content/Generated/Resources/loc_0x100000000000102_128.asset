@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1080164415, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
+  m_Name: loc_0x100000000000102_128
+  m_EditorClassIdentifier: 
+  mLocalizedStringsKeys:
+  - Dlg_56A97563.DisplayName
+  - Dlg_56A97563.Text
+  - DFr_A09EA63E.Text
+  - DFr_FBFFCC6A.Text
+  - DFr_661E4107.Text
+  - DFr_F120EE49.Text
+  - DFr_07823A4E.Text
+  - DFr_A30F0F3E.Text
+  - DFr_787D5B84.Text
+  - DFr_28661C9D.Text
+  - DFr_7D562513.Text
+  - DFr_3853B303.Text
+  - DFr_FB902F8F.Text
+  - DFr_5A1E03D7.Text
+  - DFr_F64F2548.Text
+  - DFr_A4498EEC.Text
+  - DFr_93D9D222.Text
+  - DFr_C5AAD3A3.Text
+  - DFr_E1D144A8.Text
+  - DFr_F66A1A55.Text
+  - DFr_AD592E00.Text
+  - DFr_CF026575.Text
+  - DFr_1C31E623.Text
+  - DFr_74FA77F2.Text
+  - DFr_93ABBB31.Text
+  - DFr_68FD9FF5.Text
+  - DFr_AD57DFD9.Text
+  - DFr_6EFE198A.Text
+  - DFr_5B051EC9.Text
+  - DFr_53E250E4.Text
+  - DFr_DDF374BE.Text
+  - DFr_27740989.Text
+  - DFr_FBA8580C.Text
+  - DFr_EED3834C.Text
+  - DFr_E9B9F1EF.Text
+  - DFr_3426F6D2.Text
+  - Ntt_0D0E25AA.DisplayName
+  - Ntt_0D0E25AA.Text
+  - Ntt_0D0E25AA.CharacterInfo.Background
+  - Ntt_0D0E25AA.CharacterInfo.Motivation
+  - Ntt_0D0E25AA.CharacterInfo.Appearance
+  - Ntt_55B1A627.DisplayName
+  - Ntt_55B1A627.Text
+  - Ntt_55B1A627.CharacterInfo.Background
+  - Ntt_EB2BB718.DisplayName
+  - Ntt_EB2BB718.Text
+  - Ntt_EB2BB718.CharacterInfo.Motivation
+  - Ntt_D4B565DB.DisplayName
+  - Ntt_D4B565DB.Text
+  - Stake.DisplayName
+  - ReflexPotion.DisplayName
+  - Peppermint.DisplayName
+  - Milk.DisplayName
+  - FirabolicusSparkles.DisplayName
+  - Ntt_067CDBA3.DisplayName
+  - Alcohol.DisplayName
+  - SkimmedMilk.DisplayName
+  mLocalizedStringsValues:
+  - Dracula und Mina - erstes Treffen
+  - Mina und Dracula treffen sich zum ersten Mal
+  - "Bevor ich Sie so behandle, wie es sich geh\xF6rt, tun Sie mir einen Gefallen
+    und nennen Sie mir Ihren Namen."
+  - "Sie haben keine H\xF6flichkeit verdient, Graf Dracula. Sie haben meinen geliebten
+    Ehemann und meine beste Freundin get\xF6tet."
+  - "Sehen Sie genau hin, Graf. Kommt Ihnen mein Gesicht nicht bekannt vor? Wenn
+    Sie ein Gentleman w\xE4ren, w\xE4re ich vielleicht beleidigt. Aber das sind Sie
+    ja nicht."
+  - "Es ist Mrs. Harker f\xFCr Leute wie Sie. Graf Dracula, Ihre h\xF6llische Existenz
+    wird heute Nacht enden."
+  - "Bitte ersparen Sie mir diese Scharade. Ich wei\xDF, wer und was Sie sind. Und
+    ich werde mich r\xE4chen!"
+  - "Sie besitzen die Frechheit, sich wie eine gew\xF6hnliche Einbrecherin in mein
+    Haus zu schleichen ?"
+  - "Ich bin Ihnen gegen\xFCber im Nachteil, Madame. Ich kenne Sie nicht, und Sie
+    m\xFCssen mich offensichtlich mit jemandem verwechseln. Ich habe noch nie jemanden
+    get\xF6tet."
+  - Ich erinnere mich jetzt - der arme Mr. Harker trug ein Bild von Ihnen an seinem
+    Herzen. Sie sind Mina.
+  - "Wenn es wahr ist , dass Sie wissen und verstehen, wer ich bin, dann m\xFCssen
+    Sie auch verstehen, dass Ihr Vorhaben absurd ist und nur mit dem eigenen Untergang
+    enden kann."
+  - "Es wird Ihr Untergang sein! Ich bin nicht so unvorbereitet, wie Sie vielleicht
+    denken. Professor Van Helsing sendet Gr\xFC\xDFe!"
+  - "Der m\xE4chtige Dracula flieht vor einer einfachen Frau? Das war nicht unser
+    letztes Aufeinandertreffen! Wir werden uns wiedersehen."
+  - "Dracula spricht von H\xF6flichkeit? Sie sind nur ein M\xF6rder! Sie werden meinen
+    Namen erfahren, aber nicht jetzt."
+  - Sie elende Kreatur! Sie werden in dieser Stadt keinen sicheren Unterschlupf mehr
+    finden, meine Legion wird Ihr Versteck ausfindig machen und Sie holen kommen!
+  - "Ich sagte Ihnen, dass wir uns wiedersehen w\xFCrden."
+  - "Ich sagte Ihnen, dass wir uns wiedersehen w\xFCrden."
+  - "Das haben Sie, Miss Mina. Schauen Sie nicht so \xFCberrascht, ich sagte Ihnen
+    doch, dass ich herausfinden w\xFCrde, wer Sie sind."
+  - "Das haben Sie, Miss Mina. Schauen Sie nicht so \xFCberrascht, ich sagte Ihnen
+    doch, dass ich herausfinden w\xFCrde, wer Sie sind."
+  - "Am Ende geht es immer darum, einen Judas aufzusp\xFCren und ihm zu seinen 30
+    Silberlingen zu verhelfen."
+  - Ich glaube kein Wort von dem, was Sie sagen. Woher auch immer Sie Ihre Informationen
+    haben, keiner meiner Freunde hat mich verraten!
+  - Wenn Sie es sagen.
+  - "Bei unserem letzten Treffen sprachen Sie von H\xF6flichkeit, also seien Sie
+    jetzt so nett und beantworten Sie mir einige Fragen, die ich an Sie habe."
+  - "Es wird mir ein Vergn\xFCgen sein. Aber ich kann nicht garantieren, dass Ihnen
+    gefallen wird, was ich zu sagen habe."
+  - Was wollen Sie wissen?
+  - "Warum mussten Sie meinen lieben Jonathan t\xF6ten? Er ist den ganzen Weg gereist,
+    nur um Ihnen zu helfen."
+  - Warum sind Sie ausgerechnet nach London gekommen? Was erwarten Sie hier zu finden?
+  - "Mir f\xE4llt keine andere Frage mehr ein."
+  - "Es gibt nur eine Frage, auf die ich eine Antwort brauche: Sind Sie bereit, in
+    die H\xF6lle zu gehen?"
+  - "Man fragt den L\xF6wen nicht, warum er die Antilope t\xF6tet. Es ist die nat\xFCrliche
+    Ordnung."
+  - "Ich habe gro\xDFe Pl\xE4ne f\xFCr diese Stadt. Ich werde sie nach meiner Vision
+    formen."
+  - Nun gut. Sie fangen jedoch an mich zu langweilen. Es ist Zeit, dies zu beenden.
+  - "Nachdem Sie meine n\xFCtzliche, aber erb\xE4rmliche Kreatur Renfield besiegt
+    hast, habe ich meine Bem\xFChungen verst\xE4rkt."
+  - "Renfield hat sich als n\xFCtzlich erwiesen, um Ihre Identit\xE4t herauszufinden."
+  - "Da Sie diese erb\xE4rmliche Kreatur nicht einmal loswerden konnten, verzeihen
+    Sie mir, wenn ich mir keine allzu gro\xDFen Sorgen mache."
+  - Frohlocken Sie nur, Hochmut kommt vor dem Fall.
+  - Graf Dracula
+  - "Der B\xF6sewicht in dieser Geschichte."
+  - 'Graf Dracula hat genug von seinem Schloss in den abgelegenen Karpaten. Er nahm
+    die Dienste des Anwalts Jonathan Harker in Anspruch, um einen Wohnsitz in London
+    zu erwerben. Nachdem er Harker ermordet hatte, reiste er mit dem Schiff nach
+    England, wo er auf transsilvanischem Boden lag. '
+  - "Draculas kurzfristiges Ziel, nach England zu kommen, war es, der Gesellschaft
+    wieder n\xE4her zu sein. Langfristig will er seine Macht ausbauen und eine neue
+    Monarchie der Vampire errichten."
+  - "Schlank, gut gekleidet nach der neuesten britischen Mode. Wirkt jung, wenn er
+    gut gen\xE4hrt ist, scheint \xE4lter zu werden, wenn er nicht regelm\xE4\xDFig
+    Blut zu sich nimmt."
+  - Mina Harker
+  - Die Heldin
+  - "Mina arbeitete als Lehrerin in London. Nach dem Tod ihres Mannes Jonathan und
+    ihrer besten Freundin Lucy wurde sie gewaltsam in die dunkle Welt des \xDCbernat\xFCrlichen
+    hineingeworfen. Dr. Seward machte sie mit Professor Van Helsing bekannt, der
+    ihr half, das B\xF6se zu verstehen, dem sie gegen\xFCberstanden. Minas akribisch
+    gef\xFChrte Tageb\xFCcher und Briefe halfen ihr, Draculas Pl\xE4ne zu entschl\xFCsseln."
+  - Van Helsing
+  - Der alte, weise Lehrer.
+  - "Nach dem Tod von Jonathan Harker durch Dracula schwor Van Helsing, Mina vor
+    allem Unheil zu bewahren. Da er sie nicht von ihrem Rachefeldzug abbringen konnte,
+    bildet er sie nun aus und versucht, ihr alles, was er \xFCber Vampire wei\xDF,
+    beizubringen."
+  - Apple Girl
+  - "M\xE4dchen, das \xC4pfel verkauft"
+  - Pfahl
+  - Reflex-Trank
+  - Pfefferminz
+  - Milch
+  - Firabolicus Funke
+  - Apfel
+  - Alkohol
+  - Magermilch
+  mLocalizedAudioAssetsKeys:
+  - DFr_A09EA63E.Text
+  - DFr_FBFFCC6A.Text
+  - DFr_661E4107.Text
+  - DFr_07823A4E.Text
+  - DFr_A30F0F3E.Text
+  - DFr_787D5B84.Text
+  - DFr_28661C9D.Text
+  - DFr_5A1E03D7.Text
+  - DFr_3426F6D2.Text
+  mLocalizedAudioAssetsValues: 02410000000000010e4100000000000111410000000000010b41000000000001ff400000000000010841000000000001144100000000000105410000000000011f41000000000001
